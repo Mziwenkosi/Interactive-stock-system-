@@ -76,6 +76,22 @@ button:disabled {
 }
 
 
+#current-time {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-top: 10px;
+    text-align: center;
+}
+
+
+#current-date {
+    font-size: 18px;
+    color: #555;
+    margin-top: 10px;
+    text-align: center;
+}
+
 /* Media queries for responsiveness */
 @media (max-width: 768px) {
     .button-container button {
